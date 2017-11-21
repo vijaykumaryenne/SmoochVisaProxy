@@ -1,0 +1,13 @@
+{
+  "runtime": {
+    "majorVersion": "6"
+  },
+  "command": "node app.js",
+  "startupTime": 30,
+  "shutdownTime": 0,
+  "isClustered": false,
+  "requiresAntiAffinity": false,
+  "release": {},
+  "notes": "NodeJS Sample Application",
+  "type": "web"
+}

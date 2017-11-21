@@ -1,1 +1,1 @@
-# SmoochVisaProxy
+This is Smooch channel integration!
